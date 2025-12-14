@@ -1,4 +1,4 @@
-# I'm using avg() from average_fun
+# I'm using avg() from average_function
 import average_function
 
 a = int(input("enter a: "))
